@@ -1,7 +1,7 @@
 {
     "name": "m6w6/hikke",
     "type": "library",
-    "description": "Prioritized Observers",
+    "description": "Prioritized Events and Observers",
     "keywords": ["hikke", "prioritized", "priority", "observer", "event", "spl", "hiccup"],
     "homepage": "http://github.com/m6w6/hikke",
     "license": "BSD-2-Clause",
